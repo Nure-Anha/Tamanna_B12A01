@@ -15,7 +15,7 @@
 }
                                                                    
 .bg_color{                                                                  /*Banner Part*/
-  background-image: url('/Assets/Hero-bg.png');
+  background-image: url('Assets/Hero-bg.png');
 }
 .bgwhite{
    background-color: #FFFFFF;
