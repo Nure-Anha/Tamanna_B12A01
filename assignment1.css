@@ -13,9 +13,12 @@
   font-weight: 100;
   font-style: normal;
 }
-/*Banner Part*/
-.bg_color{
+                                                                   
+.bg_color{                                                                  /*Banner Part*/
   background-image: url('/Assets/Hero-bg.png');
+}
+.bgwhite{
+   background-color: #FFFFFF;
 }
 
 nav{
@@ -74,10 +77,73 @@ nav{
   border: none;
   margin-top: 37px;
   cursor: pointer;
-  margin-left: 633px;
+  margin-left: 595px;
   margin-right: 633px;
   margin-bottom: 152px;
 }
 .focused_bttn:hover{
   background-color: rgb(44, 252, 189);
 }
+
+main{
+    max-width: 1140px;
+    margin: 0 auto;
+}
+
+.see{                                                                   /*ACTION PART*/
+  font-weight: 700;
+  font-size: 42px;
+  color: #252432;
+  margin-bottom: 23px;
+
+} 
+.action_content{
+  font-weight: 400;
+  font-size: 24px;
+  color: #252432;
+   margin-bottom: 23px;
+}         
+.preview{
+  width: 229px;
+  height: 48px;
+  font-size: 16px;
+  font-weight: 700;
+  color: #FFFFFF;
+  background-color: #4E47FF;
+  border-radius: 7px;
+  border: none;
+  margin-top: 2px;
+  cursor: pointer;
+  /* margin-left: 633px;
+  margin-right: 633px; */
+  /* margin-bottom: 62.5 px; */
+}       
+.preview:hover{
+  background-color: rgb(44, 252, 189);
+}    
+
+.See_it_in{
+  width: 517 px;
+  height: 203 px;
+  padding: 40px 220px 0px 0px;
+  /* margin-bottom: 62.5 px; */
+}
+.Action_img{
+  width: 400px;
+  height: 320px;
+  border-radius: 48px;
+}
+.Action_Part{
+  display: flex;
+  width: 1140px;
+  height: 328px;
+  /* margin-left: 41px;
+  margin-right: 59px;
+  margin-bottom: 62.5 px; */
+  margin: 70px 50px;
+  margin-bottom: 116px;
+
+}
+
+
+  
