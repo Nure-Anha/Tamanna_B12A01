@@ -144,6 +144,66 @@ main{
   margin-bottom: 116px;
 
 }
+.user_BGColor{                                                   /*PRODUCTIVE USER SECTION*/
+  width: 981px;
+  height: 201px;
+  /* width: 980px;
+  height: 306px; */
+  /* padding: 30px 90px; */
+    /* padding: 20px 100px 195px 100px; */
+ 
+  border-radius: 24px;
+  background-color: #dadaf7;
+  text-align: center;
+  padding: 40px 20px;
+  max-width: 1000px;
+  margin: 40px auto;
+  /* border: 1px solid black; */
 
+}   
+.productv_heading{
+  font-weight: 700;
+  font-size: 38px;
+  color: #252432;
+ 
+  /* width: 999px;
+  height: 45px; */
+   /* padding-top: 50px; */
+  /* margin-bottom: 1px;  */
+  /* border: 1px solid black; */
 
+  /* padding-left: 142px;
+  padding-right: 142px; */
+} 
+.active{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+ 
+} 
+.number{
+  font-weight: 700;
+  font-size: 80px;
+  color: #4E47FF;
+  margin: 0;
+}    
+.label{
+  font-weight: 400;
+  font-size: 20px;
+  color: #928e8e;
+  margin-top: 5px;
+  margin-bottom: 130px;
+
+}    
+
+.ac_fo_sa{
+  display: flex;
+  justify-content: space-around;
+  /* flex-wrap: wrap; */
+  gap: 20px;
+  /* justify-content: space-around; */
+  /* justify-content: space-around; */
+  /* padding: 50px 142px; */
+}
   
