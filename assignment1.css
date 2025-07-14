@@ -368,7 +368,7 @@ margin: 0;
 }
 .input_field_txtarea{
   width: 400px;
-  height: 95px;
+  height: 150px;
     font-weight: 400;
   font-size: 20px;
   color: #000000;
@@ -379,4 +379,8 @@ margin: 0;
     border-radius: 10px;
   border: none;
     background-color: #ebedf3;
+}
+.input_field_bttn{
+   width: 435px;
+  height: 50px;
 }
