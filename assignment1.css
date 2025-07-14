@@ -155,9 +155,10 @@ main{
   border-radius: 24px;
   background-color: #dadaf7;
   text-align: center;
-  padding: 40px 20px;
-  max-width: 1000px;
+  padding: 80px 20px;
+  max-width: 1140px;
   margin: 40px auto;
+    margin-bottom: 130px;
   /* border: 1px solid black; */
 
 }   
@@ -193,17 +194,88 @@ main{
   font-size: 20px;
   color: #928e8e;
   margin-top: 5px;
-  margin-bottom: 130px;
+
 
 }    
 
 .ac_fo_sa{
   display: flex;
   justify-content: space-around;
-  /* flex-wrap: wrap; */
-  gap: 20px;
+  flex-wrap: wrap;
+  gap: 40px;
   /* justify-content: space-around; */
   /* justify-content: space-around; */
   /* padding: 50px 142px; */
+}
+
+.feedback_heading{                                                     /*FEEDBACK PART*/
+  font-weight: 700;
+  font-size: 42px;
+  color: #252432;
+  margin-bottom: 50px;
+  text-align: center;
+}
+.Loved_by{
+  color: #1E1E1E;
+  /* font-size: 16px; */
+  font-weight: 700;
+}
+.vertex{
+  font-weight: 400;
+  /* font-size: 16px; */
+  color: #1E1E1E;
+}
+.avatar{
+  width: 40px;
+  height: 40px;
+  border-radius: 20px;
+}
+.reviwer{
+  font-weight: 600;
+  color: #757575;
+  margin-left: 10px;
+  margin-top: 0px;
+  margin-bottom: 0%;
+  /* border: 1px solid black; */
+  /* padding-top: 20px; */
+}
+.date{
+  color: #B3B3B3;
+  margin: 0%;
+  margin-left: 10px;
+  padding-top: 3px;
+  /* border: 1px solid black; */
+  /* display: flex;
+  flex-direction: column;
+  text-align: center; */
+
+    /* margin-top: 0px;
+    padding-top: 0%;
+    margin-left: 5px;
+    padding-bottom: 7px; */
+  
+}
+.avatar_container{
+  display: flex;
+  /* flex-wrap: wrap; */
+  flex-direction: row;
+  /* width: 300px;
+  height: 40px; */
+}
+.designer{
+  width: 300px;
+  height: 200px;
+  background-color: #FFFFFF;
+  box-shadow: 0px 6px 50px 0px  #dbdada;
+  padding: 20px;
+  margin: 10px;
+  border-radius: 14px;
+  
+}
+.feedback_container{
+  display: flex;
+  margin-bottom: 137px;
+  margin-left: 50px;
+  margin-right: 40px;
 }
   
