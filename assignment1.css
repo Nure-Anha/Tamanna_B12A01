@@ -57,6 +57,7 @@ nav{
   height: 189px;
   text-align: center;
   margin: 158px 268px 0px 258px;
+  /* padding:0px 268px 0px 258px; */
   /* margin-top: 158px;
   margin-left: 600px;
   margin-right: 267.5px; */
@@ -384,3 +385,67 @@ margin: 0;
    width: 435px;
   height: 50px;
 }
+                                                         
+                                                                               
+
+.logo_footer{                                                               /*FOOTER PART*/
+  width: 291px;
+  height: 121px;
+  padding: 0px;
+  margin: 0px;
+  color: #4E47FF;
+  font-size: 100px;
+  font-weight: 900;
+  /* margin: 104px 454px; */
+  margin-top: 104px;
+  margin-left:454px ;
+  /* margin-right: 454px ; */
+  margin-bottom: 0px;
+}
+.f_content{
+  width: 531px;
+  height: 48px;
+  font-weight: 400;
+  color: #8987A1;
+   margin-left:414px ;
+  /* margin-right: 454px ; */
+}
+nav ul{
+ display: flex;
+  gap: 48px;
+  font-weight: 400;
+  list-style: none;
+  margin-left:290px ;
+  /* margin-bottom: 103px; */
+}
+nav li a{
+  text-decoration: none;
+  color: #8987A1;
+  /* margin-top: 20px; */
+   /* padding: 0; */
+  
+     /* margin-left:414px ; */
+     /* padding: 0%;
+     margin: 0px; */
+     /* gap: 6px; */
+     white-space: nowrap;
+     /* justify-items: center; */
+      /* border: 1px solid black;  */
+  /* margin-right: 454px ; */
+
+}
+.Footer_Sectn{
+  background-color: #eaeef8;
+  /* padding: 104px 150px 105px 150px; */
+  padding-top: 50px;
+  padding-bottom: 50px;
+  margin-left:0px ;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  /* margin-top: 104px; */
+   /* border: 1px solid black;  */
+
+}
+   
+
+
