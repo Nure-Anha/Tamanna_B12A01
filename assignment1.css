@@ -18,7 +18,7 @@
   background-image: url('Styles/Hero-bg.png');
 }
 .bgwhite{
-   background-color: #FFFFFF;
+   background-color: #d4dcf5;
 }
 
 nav{
@@ -285,11 +285,12 @@ main{
   width: 1100px;
   height: 600px;
   background: #FFFFFF;
-  box-shadow: 0px 5px 50px 0px #dfdcdc;
+  box-shadow: 0px 4px 15px 0px #dfdcdc;
   margin-left: 50px;
   margin-right: 40px;
   margin-bottom: 70px;
   padding-bottom: 70px;
+  border-radius: 14px;
   
 }
 .ready_heading{                                                              
@@ -326,4 +327,56 @@ margin: 0;
   margin-right: 160px;
   border-radius: 48px;
 
+}
+.Get_Touch{                                                             /*Let's Get in Touch*/
+  display: flex;
+  gap: 70px;
+  margin-bottom: 15px;
+  padding-top: 71px;
+  padding-bottom: 71px;
+  /* padding-left: 20px; */
+  /* padding-right: 40px; */
+  /* border-radius: 10px; */
+  /* margin-top: 180px; */
+  /* flex-wrap: wrap; */
+}
+.touch_heading{
+  font-weight: 700;
+  font-size: 97px;
+}
+.input_heading{
+  font-weight: 500;
+  font-size: 18px;
+  color: #000000;
+  margin: 0;
+  margin-bottom: 6px;
+}
+.input_field{
+  width: 400px;
+  height: 50px;
+  font-weight: 400;
+  font-size: 20px;
+  color: #000000;
+  padding-left: 30px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  margin-bottom: 20px;
+  border-radius: 10px;
+  border: none;
+  background-color: #ebedf3;
+  /* background-color: #FFFFFF; */
+}
+.input_field_txtarea{
+  width: 400px;
+  height: 95px;
+    font-weight: 400;
+  font-size: 20px;
+  color: #000000;
+    padding-left: 30px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  margin-bottom: 20px;
+    border-radius: 10px;
+  border: none;
+    background-color: #ebedf3;
 }
